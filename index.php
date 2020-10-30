@@ -1,4 +1,4 @@
 <?php
-echo "<h2>PHP is Fun!</h2>";
-echo "Hello world!<br>";
+echo "<h2>ชื่อ นายพีรพัฒน์ กิจพร้อมผล ชื่อเล่น สุนทร</h2>";
+echo "<br>";
 ?>
