@@ -6,7 +6,7 @@
         <h1>ชื่อ: นายพีรพัฒน์  กิจพร้อมผล</h1>
         <p>ชื่อเล่น: สุนทร</p>
         <img src="cat.jpg">
-        <img src="dog.jpg">
+        <img src="cat.jpg">
         <br>
         <a href="http://www.it.kmitl.ac.th">This is a Link</a>
 
