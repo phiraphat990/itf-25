@@ -2,7 +2,7 @@
     <head>
         <title>Hello World</title>
     </head>
-    <body>
+    <body bgcolor="pink">
         <h1>ชื่อ: นายพีรพัฒน์  กิจพร้อมผล</h1>
         <p>ชื่อเล่น: สุนทร</p>
         <img src="cat.jpg">
