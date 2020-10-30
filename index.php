@@ -3,15 +3,16 @@
         <title>Hello World</title>
     </head>
     <body>
-        <h1>My First Heading</h1>
-        <p>My First Paragraph</p>
+        <h1>ชื่อ: นายพีรพัฒน์  กิจพร้อมผล</h1>
+        <p>ชื่อเล่น: สุนทร</p>
         <img src="cat.jpg">
+        <img src="dog.jpg">
         <br>
         <a href="http://www.it.kmitl.ac.th">This is a Link</a>
 
-        <h2>The unordered list</h2>
+        <h2>เรื่องตลก</h2>
         <ul>
-            <li>Google</li>
+            <li>วันหนึ่งได้นั่งรถสองเเถวไปข้างนอกมอ เเล้วจะนั่งไปลงเเอร์พอตลิ้ง เเต่ด้วยความเป็นเด็กใหม่ไม่คุ้นชินพื้นที่จึงได้นั่งรถเลยไป</li>
             <li>Yahoo</li>
             <li>Amazon</li>
         </u>
