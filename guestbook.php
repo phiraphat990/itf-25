@@ -21,8 +21,7 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
 ?>
 <div class="container">
     <h1>My Life</h1>
-     <p>Contextual classes can be used to color the table, table rows or table cells. The classes that can be used are: .table-primary, .table-success, .table-info, .table-warning, .table-danger, .table-active, .table-secondary, .table-light and .table-dark:</p>
-    <table class="table table-responsive-md">
+    <table class="table table-dark table-striped-md">
         <thead>
             <tr>
                 <th scope="col">Name</th>
